@@ -11,7 +11,22 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsy0911" />
 </a>
 
-# thanks
+<I do not like br here. if you know how to remove this: let me know>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Thanks
 
 * [GitHub Contribution](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
 * [Qiita Contribution](https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50)
