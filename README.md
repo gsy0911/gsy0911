@@ -11,8 +11,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsy0911" />
 </a>
 
-<I do not like br here. if you know how to remove this: let me know>
-<br>
+<br excuse="I do not like br here. if you know how to remove, this let me know">
 <br>
 <br>
 <br>
