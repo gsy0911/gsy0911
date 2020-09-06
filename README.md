@@ -1,4 +1,12 @@
+# Public Repositories
+
+* [![PythonVersion](https://img.shields.io/badge/Python-AzFS-brightgreen.svg?logo=microsoft-azure&style=flat)](https://github.com/gsy0911/azfs)
+* [![PythonVersion](https://img.shields.io/badge/Python-Paten-brightgreen.svg?logo=azure-functions&style=flat)](https://github.com/gsy0911/paten)
+* [![PythonVersion](https://img.shields.io/badge/Python-SlackApiDecorator-brightgreen.svg?logo=slack&style=flat)](https://github.com/gsy0911/slack-api-decorator)
+
+
 # Qiita Contribution
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/gsy0911/posts.svg)](http://qiita.com/gsy0911) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/gsy0911/contributions.svg)](http://qiita.com/gsy0911) [![My Qiita followers](https://qiita-badge.apiapi.app/s/gsy0911/followers.svg)](http://qiita.com/gsy0911)
 
 # GitHub Trophy
