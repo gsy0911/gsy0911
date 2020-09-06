@@ -1,6 +1,10 @@
 # Qiita Contribution
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/gsy0911/posts.svg)](http://qiita.com/gsy0911) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/gsy0911/contributions.svg)](http://qiita.com/gsy0911) [![My Qiita followers](https://qiita-badge.apiapi.app/s/gsy0911/followers.svg)](http://qiita.com/gsy0911)
 
+# GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911)](https://github.com/gsy0911/github-profile-trophy)
+
 
 # GitHub Constibution
 
@@ -28,4 +32,5 @@
 # Thanks
 
 * [GitHub Contribution](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
+* [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy)
 * [Qiita Contribution](https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50)
