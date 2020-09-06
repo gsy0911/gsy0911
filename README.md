@@ -1,8 +1,8 @@
-# Public Repositories
+# `gsy0911`'s Public Repositories
 
-* [![PythonVersion](https://img.shields.io/badge/Python-AzFS-brightgreen.svg?logo=microsoft-azure&style=flat)](https://github.com/gsy0911/azfs)
-* [![PythonVersion](https://img.shields.io/badge/Python-Paten-brightgreen.svg?logo=azure-functions&style=flat)](https://github.com/gsy0911/paten)
-* [![PythonVersion](https://img.shields.io/badge/Python-SlackApiDecorator-brightgreen.svg?logo=slack&style=flat)](https://github.com/gsy0911/slack-api-decorator)
+* [![PythonVersion](https://img.shields.io/badge/Python-AzFS-brightgreen.svg?logo=microsoft-azure&style=flat)](https://github.com/gsy0911/azfs) provides convenient Python read/write functions for Azure Storage Account.
+* [![PythonVersion](https://img.shields.io/badge/Python-Paten-brightgreen.svg?logo=azure-functions&style=flat)](https://github.com/gsy0911/paten) is a framework for azure functions written in Python
+* [![PythonVersion](https://img.shields.io/badge/Python-SlackApiDecorator-brightgreen.svg?logo=slack&style=flat)](https://github.com/gsy0911/slack-api-decorator) provides simple decorator to receive slack-payload: Slash Command and Event Subscription.
 
 
 # Qiita Contribution
@@ -11,7 +11,7 @@
 
 # GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911)](https://github.com/gsy0911/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # GitHub Constibution
