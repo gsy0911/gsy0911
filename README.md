@@ -1,6 +1,8 @@
 # `gsy0911`'s Public Repositories
 
 * [![AzFS](https://img.shields.io/badge/Python-AzFS-brightgreen.svg?logo=microsoft-azure&style=flat)](https://github.com/gsy0911/azfs) provides convenient Python read/write functions for Azure Storage Account.
+* [![azutils](https://img.shields.io/badge/Python-azutils-brightgreen.svg?logo=microsoft-azure&style=flat)](https://github.com/gsy0911/azutils) is to provide convenient Python functions for Azure Services.
+* [![aws-cdk-small-examples](https://img.shields.io/badge/Python-aws_cdk_small_examples-brightgreen.svg?logo=amazon-aws&style=flat)](https://github.com/gsy0911/aws-cdk-small-examples) contains a set of example projects for the AWS Cloud Development Kit.
 * [![Paten](https://img.shields.io/badge/Python-Paten-brightgreen.svg?logo=azure-functions&style=flat)](https://github.com/gsy0911/paten) is a framework for azure functions written in Python.
 * [![SlackApiDecorator](https://img.shields.io/badge/Python-SlackApiDecorator-brightgreen.svg?logo=slack&style=flat)](https://github.com/gsy0911/slack-api-decorator) provides simple decorator to receive slack-payload: Slash Command and Event Subscription.
 * [![QiitaAnalysis](https://img.shields.io/badge/Python-QiitaAnalysis-brightgreen.svg?logo=Python&style=flat)](https://github.com/gsy0911/qiita_analysis) provides methods to analyze Qiita article itmes.
