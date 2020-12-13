@@ -1,13 +1,17 @@
 # `gsy0911`'s Public Repositories
 
-* [![AzFS](https://img.shields.io/badge/Python-AzFS-brightgreen.svg?logo=microsoft-azure&style=flat)](https://github.com/gsy0911/azfs) provides convenient Python read/write functions for Azure Storage Account.
-* [![azutils](https://img.shields.io/badge/Python-azutils-brightgreen.svg?logo=microsoft-azure&style=flat)](https://github.com/gsy0911/azutils) is to provide convenient Python functions for Azure Services.
-* [![aws-cdk-small-examples](https://img.shields.io/badge/Python-aws_cdk_small_examples-brightgreen.svg?logo=amazon-aws&style=flat)](https://github.com/gsy0911/aws-cdk-small-examples) contains a set of example projects for the AWS Cloud Development Kit.
-* [![Paten](https://img.shields.io/badge/Python-Paten-brightgreen.svg?logo=azure-functions&style=flat)](https://github.com/gsy0911/paten) is a framework for azure functions written in Python.
-* [![SlackApiDecorator](https://img.shields.io/badge/Python-SlackApiDecorator-brightgreen.svg?logo=slack&style=flat)](https://github.com/gsy0911/slack-api-decorator) provides simple decorator to receive slack-payload: Slash Command and Event Subscription.
-* [![QiitaAnalysis](https://img.shields.io/badge/Python-QiitaAnalysis-brightgreen.svg?logo=Python&style=flat)](https://github.com/gsy0911/qiita_analysis) provides methods to analyze Qiita article itmes.
-* [![TIPO](https://img.shields.io/badge/Python-TIPO-brightgreen.svg?logo=Python&style=flat)](https://github.com/gsy0911/tipo) Is to Point Out your violation of PEP8 based on flake8.
-* [![TemplatePython](https://img.shields.io/badge/Python-TemplatePython-lightgray.svg?logo=Python&style=flat)](https://github.com/gsy0911/template-python) is template repository for Python.
+## Python
+
+| name | description | optional | related |
+|:---:|:---:|:---:|:---:|
+| [aws-cdk-small-examples](https://github.com/gsy0911/aws-cdk-small-examples) | contains a set of example projects for the AWS Cloud Development Kit. | - | AWS |
+| [AzFS](https://github.com/gsy0911/azfs) | provides convenient Python read/write functions for Azure Storage Account. | [![PiPY](https://img.shields.io/pypi/v/azfs.svg)](https://pypi.org/project/azfs/) | Azure |
+| [azutils](https://github.com/gsy0911/azutils) | is to provide convenient Python functions for Azure Services. | [![PiPY](https://img.shields.io/pypi/v/azutils.svg)](https://pypi.org/project/azutils/) | Azure |
+| [Paten](https://github.com/gsy0911/paten) | is a framework for azure functions written in Python. | [![PiPY](https://img.shields.io/pypi/v/paten.svg)](https://pypi.org/project/paten/) | Azure, AzureFunctions |
+| [SlackApiDecorator](https://github.com/gsy0911/slack-api-decorator) | provides simple decorator to receive slack-payload: Slash Command and Event Subscription. | [![PiPY](https://img.shields.io/pypi/v/slackapidecorator.svg)](https://pypi.org/project/slackapidecorator/) | Slack |
+| [QiitaAnalysis](https://github.com/gsy0911/qiita_analysis) | provides methods to analyze Qiita article itmes. | - | Qiita |
+| [TIPO](https://github.com/gsy0911/tipo) | Is to Point Out your violation of PEP8 based on flake8. | - | PEP8 |
+| [TemplatePython](https://github.com/gsy0911/template-python) | is template repository for Python. | - | template repository |
 
 
 # [Qiita Contribution](https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50)
@@ -16,14 +20,14 @@
 
 # [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 # [GitHub Constibution](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170"align="left" src="https://github-readme-stats.vercel.app/api?username=gsy0911&count_private=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=gsy0911&count_private=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsy0911&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsy0911&layout=compact&theme=dracula" />
 </a>
