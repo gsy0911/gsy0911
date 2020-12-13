@@ -2,7 +2,7 @@
 
 ## Python
 
-| name | description | optional | related |
+| name | description | release | related |
 |:---:|:---:|:---:|:---:|
 | [aws-cdk-small-examples](https://github.com/gsy0911/aws-cdk-small-examples) | contains a set of example projects for the AWS Cloud Development Kit. | - | AWS |
 | [AzFS](https://github.com/gsy0911/azfs) | provides convenient Python read/write functions for Azure Storage Account. | [![PiPY](https://img.shields.io/pypi/v/azfs.svg)](https://pypi.org/project/azfs/) | Azure |
