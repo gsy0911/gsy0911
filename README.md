@@ -14,6 +14,13 @@
 | [TemplatePython](https://github.com/gsy0911/template-python) | is template repository for Python. | - | template repository |
 
 
+## Other
+
+| name | description | release | related |
+|:---:|:---:|:---:|:---:|
+| [posts](https://github.com/gsy0911/posts) | stores my writings | - | Gist, Qiita |
+
+
 # [Qiita Contribution](https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/gsy0911/posts.svg)](http://qiita.com/gsy0911) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/gsy0911/contributions.svg)](http://qiita.com/gsy0911) [![My Qiita followers](https://qiita-badge.apiapi.app/s/gsy0911/followers.svg)](http://qiita.com/gsy0911)
