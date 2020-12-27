@@ -19,6 +19,7 @@
 | name | description | release | related |
 |:---:|:---:|:---:|:---:|
 | [posts](https://github.com/gsy0911/posts) | stores my writings | - | Gist, Qiita |
+| [tech_shared_code](https://github.com/gsy0911/tech_shared_code) | stores code | - | Qiita |
 
 
 # [Qiita Contribution](https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50)
