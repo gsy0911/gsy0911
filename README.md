@@ -14,6 +14,12 @@
 | [TemplatePython](https://github.com/gsy0911/template-python) | is template repository for Python. | - | template repository |
 
 
+## TypeScript / JavaScript
+
+| name | description | release | related |
+|:---:|:---:|:---:|:---:|
+| [TemplateTypeScript](https://github.com/gsy0911/TemplateTypeScript) | is template repository for TypeScript. | - | template repository |
+
 ## Other
 
 | name | description | release | related |
