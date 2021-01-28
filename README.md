@@ -19,6 +19,8 @@
 | name | description | release | related |
 |:---:|:---:|:---:|:---:|
 | [TemplateTypeScript](https://github.com/gsy0911/TemplateTypeScript) | is template repository for TypeScript. | - | template repository |
+| [migot](https://github.com/gsy0911/migot) | - | - | electron |
+
 
 ## Other
 
