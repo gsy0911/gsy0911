@@ -4,7 +4,7 @@
 
 | name | description | release | related |
 |:---:|:---:|:---:|:---:|
-| [aws-cdk-small-examples](https://github.com/gsy0911/aws-cdk-small-examples) | contains a set of example projects for the AWS Cloud Development Kit. | - | AWS |
+| [aws-cdk-small-examples](https://github.com/gsy0911/aws-cdk-small-examples) | contains a set of example projects for the AWS Cloud Development Kit. | - | AWS, CDK |
 | [AzFS](https://github.com/gsy0911/azfs) | provides convenient Python read/write functions for Azure Storage Account. | [![PiPY](https://img.shields.io/pypi/v/azfs.svg)](https://pypi.org/project/azfs/) | Azure |
 | [azutils](https://github.com/gsy0911/azutils) | is to provide convenient Python functions for Azure Services. | [![PiPY](https://img.shields.io/pypi/v/azutils.svg)](https://pypi.org/project/azutils/) | Azure |
 | [Paten](https://github.com/gsy0911/paten) | is a framework for azure functions written in Python. | [![PiPY](https://img.shields.io/pypi/v/paten.svg)](https://pypi.org/project/paten/) | Azure, AzureFunctions |
@@ -18,9 +18,9 @@
 
 | name | description | release | related |
 |:---:|:---:|:---:|:---:|
-| [TemplateTypeScript](https://github.com/gsy0911/TemplateTypeScript) | is template repository for TypeScript. | - | template repository |
+| [aws-cdk-ts-small-examples](https://github.com/gsy0911/aws-cdk-ts-small-examples) | contains a set of `TypeScript` example projects for the AWS Cloud Development Kit. | - | AWS, CDK |
 | [migot](https://github.com/gsy0911/migot) | - | - | electron |
-
+| [TemplateTypeScript](https://github.com/gsy0911/TemplateTypeScript) | is template repository for TypeScript. | - | template repository |
 
 ## Other
 
