@@ -28,6 +28,7 @@
 |:---:|:---:|:---:|:---:|
 | [posts](https://github.com/gsy0911/posts) | stores my writings | - | Gist, Qiita |
 | [tech_shared_code](https://github.com/gsy0911/tech_shared_code) | stores code | - | Qiita |
+| [dotfiles](https://github.com/gsy0911/dotfiles) | dotfiles of @gsy0911 | - | dotfiles, zsh |
 | [nice_cafe-code](https://github.com/gsy0911/nice_cafe_code) | - | - | - |
 
 
