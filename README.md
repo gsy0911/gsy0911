@@ -20,13 +20,9 @@
 |:---:|:---:|:---:|:---:|
 | [aws-cdk-ts-small-examples](https://github.com/gsy0911/aws-cdk-ts-small-examples) | contains a set of `TypeScript` example projects for the AWS Cloud Development Kit. | - | AWS, CDK |
 | [migot](https://github.com/gsy0911/migot) | - | - | electron |
+| [ne10](https://github.com/gsy0911/ne10) | count working and break time. | - | electron |
 | [TemplateTypeScript](https://github.com/gsy0911/TemplateTypeScript) | is template repository for TypeScript. | - | template repository |
 
-## PHP
-
-| name | description | release | related |
-|:---:|:---:|:---:|:---:|
-| [php-larabel-docker](https://github.com/gsy0911/php-larabel-docker) | Run, example PHP Laravel scripts with docker-compose, DB and nginx. | - | PHP, Laravel, Docker |
 
 ## Other
 
