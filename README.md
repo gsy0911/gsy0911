@@ -29,6 +29,7 @@
 | name | description | release | related |
 |:---:|:---:|:---:|:---:|
 | [zenn-contents](https://github.com/gsy0911/zenn-contents) | stored `zenn` contents. | - | Zenn |
+| [zenn-streamlit-cognito](https://github.com/gsy0911/zenn-streamlit-cognito) | - | - | Zenn, streamlit, cognito |
 | [posts](https://github.com/gsy0911/posts) | stores my writings | - | Gist, Qiita |
 | [tech_shared_code](https://github.com/gsy0911/tech_shared_code) | stores code | - | Qiita |
 | [dotfiles](https://github.com/gsy0911/dotfiles) | dotfiles of @gsy0911 | - | dotfiles, zsh |
@@ -37,7 +38,14 @@
 
 # [Qiita Contribution](https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50)
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/gsy0911/posts.svg)](http://qiita.com/gsy0911) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/gsy0911/contributions.svg)](http://qiita.com/gsy0911) [![My Qiita followers](https://qiita-badge.apiapi.app/s/gsy0911/followers.svg)](http://qiita.com/gsy0911)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/gsy0911/posts.svg)](http://qiita.com/gsy0911)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/gsy0911/contributions.svg)](http://qiita.com/gsy0911)
+
+# [Zenn Contribution](https://github.com/nikaera/zenn-badge)
+
+[![liked](https://zenn.badge.nikaera.com/s/gsy0911/likes?style=flat)](https://zenn.dev/gsy0911)
+[![articles](https://zenn.badge.nikaera.com/s/gsy0911/articles?style=flat)](https://zenn.dev/gsy0911)
+[![books](https://zenn.badge.nikaera.com/s/gsy0911/books?style=falt)](https://zenn.dev/gsy0911)
 
 # [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
