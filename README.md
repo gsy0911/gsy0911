@@ -3,21 +3,22 @@
 ## Python
 
 | name | description | release | related |
-|:---:|:---:|:---:|:---:|
-| [aws-cdk-small-examples](https://github.com/gsy0911/aws-cdk-small-examples) | contains a set of example projects for the AWS Cloud Development Kit. | - | AWS, CDK |
+|:---|:---|:---:|:---:|
 | [AzFS](https://github.com/gsy0911/azfs) | provides convenient Python read/write functions for Azure Storage Account. | [![PiPY](https://img.shields.io/pypi/v/azfs.svg)](https://pypi.org/project/azfs/) | Azure |
+| [kabutobashi](https://github.com/gsy0911/kabutobashi) | provides convenient functions related with Stocks. | [![PiPY](https://img.shields.io/pypi/v/kabutobashi.svg)](https://pypi.org/project/kabutobashi/) | stock |
 | [azutils](https://github.com/gsy0911/azutils) | is to provide convenient Python functions for Azure Services. | [![PiPY](https://img.shields.io/pypi/v/azutils.svg)](https://pypi.org/project/azutils/) | Azure |
 | [Paten](https://github.com/gsy0911/paten) | is a framework for azure functions written in Python. | [![PiPY](https://img.shields.io/pypi/v/paten.svg)](https://pypi.org/project/paten/) | Azure, AzureFunctions |
 | [SlackApiDecorator](https://github.com/gsy0911/slack-api-decorator) | provides simple decorator to receive slack-payload: Slash Command and Event Subscription. | [![PiPY](https://img.shields.io/pypi/v/slackapidecorator.svg)](https://pypi.org/project/slackapidecorator/) | Slack |
+| [aws-cdk-small-examples](https://github.com/gsy0911/aws-cdk-small-examples) | contains a set of example projects for the AWS Cloud Development Kit. | - | AWS, CDK |
 | [QiitaAnalysis](https://github.com/gsy0911/qiita_analysis) | provides methods to analyze Qiita article itmes. | - | Qiita |
 | [TIPO](https://github.com/gsy0911/tipo) | Is to Point Out your violation of PEP8 based on flake8. | - | PEP8 |
 | [TemplatePython](https://github.com/gsy0911/template-python) | is template repository for Python. | - | template repository |
 
 
-## TypeScript / JavaScript
+## TypeScript
 
 | name | description | release | related |
-|:---:|:---:|:---:|:---:|
+|:---|:---|:---:|:---:|
 | [aws-cdk-ts-small-examples](https://github.com/gsy0911/aws-cdk-ts-small-examples) | contains a set of `TypeScript` example projects for the AWS Cloud Development Kit. | - | AWS, CDK |
 | [migot](https://github.com/gsy0911/migot) | - | - | electron |
 | [ne10](https://github.com/gsy0911/ne10) | count working and break time. | - | electron |
@@ -27,7 +28,7 @@
 ## Other
 
 | name | description | release | related |
-|:---:|:---:|:---:|:---:|
+|:---|:---|:---:|:---:|
 | [zenn-contents](https://github.com/gsy0911/zenn-contents) | stored `zenn` contents. | - | Zenn |
 | [zenn-streamlit-cognito](https://github.com/gsy0911/zenn-streamlit-cognito) | - | - | Zenn, streamlit, cognito |
 | [posts](https://github.com/gsy0911/posts) | stores my writings | - | Gist, Qiita |
