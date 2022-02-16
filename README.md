@@ -50,8 +50,11 @@
 
 # [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+# [Streak Stats](http://github-readme-streak-stats.herokuapp.com/demo/)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gsy0911&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 # [GitHub Constibution](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
 
