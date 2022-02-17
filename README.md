@@ -9,6 +9,7 @@
 | [SlackApiDecorator](https://github.com/gsy0911/slack-api-decorator) | provides simple decorator to receive slack-payload: Slash Command and Event Subscription. | [![PiPY](https://img.shields.io/pypi/v/slackapidecorator.svg)](https://pypi.org/project/slackapidecorator/) | Slack |
 | [aws-cdk-small-examples](https://github.com/gsy0911/aws-cdk-small-examples) | contains a set of example projects for the AWS Cloud Development Kit. | - | AWS, CDK |
 | [QiitaAnalysis](https://github.com/gsy0911/qiita_analysis) | provides methods to analyze Qiita article itmes. | - | Qiita |
+| [wordle-solver-py](https://github.com/gsy0911/wordle-solver-py) | provides game-environment and sovler. | - | Wordle |
 | [TemplatePython](https://github.com/gsy0911/template-python) | is template repository for Python. | - | template repository |
 
 
