@@ -2,7 +2,7 @@
 
 ## Python
 
-| name                                                                        | description                                                                               |                                                   release                                                   |      related        |
+| name                                                                        | description                                                                               |                                                   release                                                   |       related       |
 |:----------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------:|:-------------------:|
 | [kabutobashi](https://github.com/gsy0911/kabutobashi)                       | provides convenient functions related with Stocks.                                        |       [![PiPY](https://img.shields.io/pypi/v/kabutobashi.svg)](https://pypi.org/project/kabutobashi/)       |        stock        |
 | [AzFS](https://github.com/gsy0911/azfs)                                     | provides convenient Python read/write functions for Azure Storage Account.                |              [![PiPY](https://img.shields.io/pypi/v/azfs.svg)](https://pypi.org/project/azfs/)              |        Azure        |
@@ -27,6 +27,8 @@
 |:-------------------------------------------------------------------------------|:------------------------|:-------:|:-------------------------:|
 | [zenn-contents](https://github.com/gsy0911/zenn-contents)                      | stored `zenn` contents. |    -    |           Zenn            |
 | [zenn-streamlit-cognito](https://github.com/gsy0911/zenn-streamlit-cognito)    | -                       |    -    | Zenn, streamlit, cognito  |
+| [zenn-cloudfront-cognito](https://github.com/gsy0911/zenn-cloudfront-cognito)  | -                       |    -    | Zenn, CloudFront, cognito |
+| [zenn-ec2-ssm](https://github.com/gsy0911/zenn-ec2-ssm)                        | -                       |    -    |      Zenn, EC2, SSM       |
 | [dotfiles](https://github.com/gsy0911/dotfiles)                                | dotfiles of @gsy0911    |    -    |       dotfiles, zsh       |
 
 not interesting repositories are [here](./DETAIL.md).
