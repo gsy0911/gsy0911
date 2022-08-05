@@ -23,15 +23,11 @@
 
 ## Other
 
-| name                                                                           | description             | release |          related          |
-|:-------------------------------------------------------------------------------|:------------------------|:-------:|:-------------------------:|
-| [zenn-contents](https://github.com/gsy0911/zenn-contents)                      | stored `zenn` contents. |    -    |           Zenn            |
-| [zenn-streamlit-cognito](https://github.com/gsy0911/zenn-streamlit-cognito)    | -                       |    -    | Zenn, streamlit, cognito  |
-| [zenn-cloudfront-cognito](https://github.com/gsy0911/zenn-cloudfront-cognito)  | -                       |    -    | Zenn, CloudFront, cognito |
-| [zenn-ec2-ssm](https://github.com/gsy0911/zenn-ec2-ssm)                        | -                       |    -    |      Zenn, EC2, SSM       |
-| [dotfiles](https://github.com/gsy0911/dotfiles)                                | dotfiles of @gsy0911    |    -    |       dotfiles, zsh       |
+| name                                             | description            | tag |          related          |
+|:-------------------------------------------------|:-----------------------|:---:|:-------------------------:|
+| [dotfiles](https://github.com/gsy0911/dotfiles)  | dotfiles of @gsy0911   |  -  |       dotfiles, zsh       |
 
-not interesting repositories are [here](./DETAIL.md).
+other repositories are [here](./DETAIL.md).
 
 
 # [Qiita Contribution](https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50)
@@ -44,6 +40,15 @@ not interesting repositories are [here](./DETAIL.md).
 [![liked](https://zenn.badge.nikaera.com/s/gsy0911/likes?style=flat)](https://zenn.dev/gsy0911)
 [![articles](https://zenn.badge.nikaera.com/s/gsy0911/articles?style=flat)](https://zenn.dev/gsy0911)
 [![books](https://zenn.badge.nikaera.com/s/gsy0911/books?style=falt)](https://zenn.dev/gsy0911)
+
+| name                                                                                      | description             | tag |              related              |
+|:------------------------------------------------------------------------------------------|:------------------------|:---:|:---------------------------------:|
+| [zenn-contents](https://github.com/gsy0911/zenn-contents)                                 | stored `zenn` contents. |  -  |               Zenn                |
+| [zenn-streamlit-cognito](https://github.com/gsy0911/zenn-streamlit-cognito)               | -                       |  -  |     Zenn, streamlit, cognito      |
+| [zenn-cloudfront-cognito](https://github.com/gsy0911/zenn-cloudfront-cognito)             | -                       |  -  |     Zenn, CloudFront, cognito     |
+| [zenn-cloudfront-cognito-apigw](https://github.com/gsy0911/zenn-cloudfront-cognito-apigw) | -                       |  -  | Zenn, CloudFront, cognito, API-GW |
+| [zenn-ec2-ssm](https://github.com/gsy0911/zenn-ec2-ssm)                                   | -                       |  -  |          Zenn, EC2, SSM           |
+
 
 # [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
