@@ -48,11 +48,12 @@ other repositories are [here](./DETAIL.md).
 | [zenn-cloudfront-cognito](https://github.com/gsy0911/zenn-cloudfront-cognito)             | -                       |  -  |     Zenn, CloudFront, cognito     |
 | [zenn-cloudfront-cognito-apigw](https://github.com/gsy0911/zenn-cloudfront-cognito-apigw) | -                       |  -  | Zenn, CloudFront, cognito, API-GW |
 | [zenn-ec2-ssm](https://github.com/gsy0911/zenn-ec2-ssm)                                   | -                       |  -  |          Zenn, EC2, SSM           |
+| [zenn-fastapi-ecs-apigw](https://github.com/gsy0911/zenn-fastapi-ecs-apigw)               | -                       |  -  |    Zenn, ECS, CloudMap, API-GW    |
 
 
 # [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 # [Streak Stats](http://github-readme-streak-stats.herokuapp.com/demo/)
 
