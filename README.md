@@ -50,10 +50,13 @@ other repositories are [here](./DETAIL.md).
 | [zenn-ec2-ssm](https://github.com/gsy0911/zenn-ec2-ssm)                                   | -                       |  -  |          Zenn, EC2, SSM           |
 | [zenn-fastapi-ecs-apigw](https://github.com/gsy0911/zenn-fastapi-ecs-apigw)               | -                       |  -  |    Zenn, ECS, CloudMap, API-GW    |
 
+# [Skill Icons](https://github.com/tandpfun/skill-icons)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,fastapi,git,github,githubactions,idea,java,materialui,next,nginx,postgres,py,raspberrypi,react,ts&perline=8)](https://skillicons.dev)
 
 # [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911&theme=onedark&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 # [Streak Stats](http://github-readme-streak-stats.herokuapp.com/demo/)
 
