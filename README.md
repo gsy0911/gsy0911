@@ -46,6 +46,7 @@ other repositories are [here](./DETAIL.md).
 | [zenn-contents](https://github.com/gsy0911/zenn-contents)                                 | stored `zenn` contents. |  -  |               Zenn                |
 | [zenn-streamlit-cognito](https://github.com/gsy0911/zenn-streamlit-cognito)               | -                       |  -  |     Zenn, streamlit, cognito      |
 | [zenn-cloudfront-cognito](https://github.com/gsy0911/zenn-cloudfront-cognito)             | -                       |  -  |     Zenn, CloudFront, cognito     |
+| [zenn-cloudfront-oai](https://github.com/gsy0911/zenn-cloudfront-oai)                     | -                       |  -  |     Zenn, CloudFront, Next.js     |
 | [zenn-cloudfront-cognito-apigw](https://github.com/gsy0911/zenn-cloudfront-cognito-apigw) | -                       |  -  | Zenn, CloudFront, cognito, API-GW |
 | [zenn-ec2-ssm](https://github.com/gsy0911/zenn-ec2-ssm)                                   | -                       |  -  |          Zenn, EC2, SSM           |
 | [zenn-fastapi-ecs-apigw](https://github.com/gsy0911/zenn-fastapi-ecs-apigw)               | -                       |  -  |    Zenn, ECS, CloudMap, API-GW    |
