@@ -65,9 +65,9 @@ other repositories are [here](./DETAIL.md).
 
 # [GitHub Constibution](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=gsy0911&count_private=true&theme=dracula" />
+<a href="https://github.com/anuraghazra/github-readme-stats" about="https://github.com/anuraghazra/github-readme-stats/issues/2415">
+  <img height="170" align="left" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gsy0911&count_private=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsy0911&layout=compact&theme=dracula" />
+<a href="https://github.com/anuraghazra/github-readme-stats"  about="https://github.com/anuraghazra/github-readme-stats/issues/2415">
+  <img height="170" align="left" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=gsy0911&layout=compact&theme=dracula" />
 </a>
