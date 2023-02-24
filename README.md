@@ -32,8 +32,9 @@ other repositories are [here](./DETAIL.md).
 
 # [Qiita Contribution](https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50)
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/gsy0911/posts.svg)](http://qiita.com/gsy0911)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/gsy0911/contributions.svg)](http://qiita.com/gsy0911)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/gsy0911/posts.svg)](http://qiita.com/gsy0911)
+
 
 # [Zenn Contribution](https://github.com/nikaera/zenn-badge)
 
@@ -48,6 +49,7 @@ other repositories are [here](./DETAIL.md).
 | [zenn-cloudfront-cognito](https://github.com/gsy0911/zenn-cloudfront-cognito)             | -                       |  -  |     Zenn, CloudFront, cognito     |
 | [zenn-cloudfront-oai](https://github.com/gsy0911/zenn-cloudfront-oai)                     | -                       |  -  |     Zenn, CloudFront, Next.js     |
 | [zenn-cloudfront-cognito-apigw](https://github.com/gsy0911/zenn-cloudfront-cognito-apigw) | -                       |  -  | Zenn, CloudFront, cognito, API-GW |
+| [zenn-cognito-frontend-auth](https://github.com/gsy0911/zenn-cognito-frontend-auth)       | -                       |  -  |      Zenn, Next.js, cognito       |
 | [zenn-ec2-ssm](https://github.com/gsy0911/zenn-ec2-ssm)                                   | -                       |  -  |          Zenn, EC2, SSM           |
 | [zenn-fastapi-ecs-apigw](https://github.com/gsy0911/zenn-fastapi-ecs-apigw)               | -                       |  -  |    Zenn, ECS, CloudMap, API-GW    |
 
