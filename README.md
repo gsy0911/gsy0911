@@ -42,16 +42,17 @@ other repositories are [here](./DETAIL.md).
 [![articles](https://zenn.badge.nikaera.com/s/gsy0911/articles?style=flat)](https://zenn.dev/gsy0911)
 [![books](https://zenn.badge.nikaera.com/s/gsy0911/books?style=falt)](https://zenn.dev/gsy0911)
 
-| name                                                                                      | description             | tag |              related              |
-|:------------------------------------------------------------------------------------------|:------------------------|:---:|:---------------------------------:|
-| [zenn-contents](https://github.com/gsy0911/zenn-contents)                                 | stored `zenn` contents. |  -  |               Zenn                |
-| [zenn-streamlit-cognito](https://github.com/gsy0911/zenn-streamlit-cognito)               | -                       |  -  |     Zenn, streamlit, cognito      |
-| [zenn-cloudfront-cognito](https://github.com/gsy0911/zenn-cloudfront-cognito)             | -                       |  -  |     Zenn, CloudFront, cognito     |
-| [zenn-cloudfront-oai](https://github.com/gsy0911/zenn-cloudfront-oai)                     | -                       |  -  |     Zenn, CloudFront, Next.js     |
-| [zenn-cloudfront-cognito-apigw](https://github.com/gsy0911/zenn-cloudfront-cognito-apigw) | -                       |  -  | Zenn, CloudFront, cognito, API-GW |
-| [zenn-cognito-frontend-auth](https://github.com/gsy0911/zenn-cognito-frontend-auth)       | -                       |  -  |      Zenn, Next.js, cognito       |
-| [zenn-ec2-ssm](https://github.com/gsy0911/zenn-ec2-ssm)                                   | -                       |  -  |          Zenn, EC2, SSM           |
-| [zenn-fastapi-ecs-apigw](https://github.com/gsy0911/zenn-fastapi-ecs-apigw)               | -                       |  -  |    Zenn, ECS, CloudMap, API-GW    |
+| name                                                                                          | description             | tag |              related              |
+|:----------------------------------------------------------------------------------------------|:------------------------|:---:|:---------------------------------:|
+| [zenn-contents](https://github.com/gsy0911/zenn-contents)                                     | stored `zenn` contents. |  -  |               Zenn                |
+| [zenn-streamlit-cognito](https://github.com/gsy0911/zenn-streamlit-cognito)                   | -                       |  -  |     Zenn, streamlit, cognito      |
+| [zenn-cloudfront-cognito](https://github.com/gsy0911/zenn-cloudfront-cognito)                 | -                       |  -  |     Zenn, CloudFront, cognito     |
+| [zenn-cloudfront-oai](https://github.com/gsy0911/zenn-cloudfront-oai)                         | -                       |  -  |     Zenn, CloudFront, Next.js     |
+| [zenn-cloudfront-cognito-apigw](https://github.com/gsy0911/zenn-cloudfront-cognito-apigw)     | -                       |  -  | Zenn, CloudFront, cognito, API-GW |
+| [zenn-cognito-frontend-auth](https://github.com/gsy0911/zenn-cognito-frontend-auth)           | -                       |  -  |      Zenn, Next.js, cognito       |
+| [zenn-ec2-ssm](https://github.com/gsy0911/zenn-ec2-ssm)                                       | -                       |  -  |          Zenn, EC2, SSM           |
+| [zenn-fastapi-ecs-apigw](https://github.com/gsy0911/zenn-fastapi-ecs-apigw)                   | -                       |  -  |    Zenn, ECS, CloudMap, API-GW    |
+| [zenn-cloudfront-resize-image](https://github.com/gsy0911/zenn-cloudfront-resize-image)       | -                       |  -  |   Zenn, CloudFront, Lambda@Edge   |
 
 # [Skill Icons](https://github.com/tandpfun/skill-icons)
 
