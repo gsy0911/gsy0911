@@ -53,7 +53,8 @@ other repositories are [here](./DETAIL.md).
 | [zenn-ec2-ssm](https://github.com/gsy0911/zenn-ec2-ssm)                                   | -                       |  -  |          Zenn, EC2, SSM           |
 | [zenn-fastapi-ecs-apigw](https://github.com/gsy0911/zenn-fastapi-ecs-apigw)               | -                       |  -  |    Zenn, ECS, CloudMap, API-GW    |
 | [zenn-cloudfront-resize-image](https://github.com/gsy0911/zenn-cloudfront-resize-image)   | -                       |  -  |   Zenn, CloudFront, Lambda@Edge   |
-| [zenn-symfony-docker](https://github.com/gsy0911/zenn-symfony-docker)                     | -                       |  -  |        Zenn, PHP, Symfony         |
+| [zenn-php-symfony](https://github.com/gsy0911/zenn-php-symfony)                           | -                       |  -  |        Zenn, PHP, Symfony         |
+| [zenn-nextjs-routes-types](https://github.com/gsy0911/zenn-nextjs-routes-types)           | -                       |  -  |    Zenn, Next.js, axios, types    |
 
 # [Skill Icons](https://github.com/tandpfun/skill-icons)
 
