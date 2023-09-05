@@ -46,7 +46,7 @@ other repositories are [here](./DETAIL.md).
 
 # [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911&theme=onedark&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gsy0911&theme=onedark&margin-w=5&margin-h=5&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 
 # [Streak Stats](http://github-readme-streak-stats.herokuapp.com/demo/)
 
