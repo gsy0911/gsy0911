@@ -1,31 +1,15 @@
-# `gsy0911`'s Public Repositories
+# Hi there 👋
 
-## Python
+## Repositories
 
-| name                                                                        | description                                                                               |                                                   release                                                   |       related       |
-|:----------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------:|:-------------------:|
-| [kabutobashi](https://github.com/gsy0911/kabutobashi)                       | provides convenient functions related with Stocks.                                        |       [![PiPY](https://img.shields.io/pypi/v/kabutobashi.svg)](https://pypi.org/project/kabutobashi/)       |        stock        |
-| [AzFS](https://github.com/gsy0911/azfs)                                     | provides convenient Python read/write functions for Azure Storage Account.                |              [![PiPY](https://img.shields.io/pypi/v/azfs.svg)](https://pypi.org/project/azfs/)              |        Azure        |
-| [SlackApiDecorator](https://github.com/gsy0911/slack-api-decorator)         | provides simple decorator to receive slack-payload: Slash Command and Event Subscription. | [![PiPY](https://img.shields.io/pypi/v/slackapidecorator.svg)](https://pypi.org/project/slackapidecorator/) |        Slack        |
-| [aws-cdk-small-examples](https://github.com/gsy0911/aws-cdk-small-examples) | contains a set of example projects for the AWS Cloud Development Kit.                     |                                                      -                                                      |      AWS, CDK       |
-| [QiitaAnalysis](https://github.com/gsy0911/qiita_analysis)                  | provides methods to analyze Qiita article itmes.                                          |                                                      -                                                      |        Qiita        |
-| [wordle-solver-py](https://github.com/gsy0911/wordle-solver-py)             | provides game-environment and sovler.                                                     |                                                      -                                                      |       Wordle        |
-| [TemplatePython](https://github.com/gsy0911/template-python)                | is template repository for Python.                                                        |                                                      -                                                      | template repository |
-
-
-## TypeScript
-
-| name                                                                              | description                                                                        | release |      related        |
-|:----------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|:-------:|:-------------------:|
-| [aws-cdk-ts-small-examples](https://github.com/gsy0911/aws-cdk-ts-small-examples) | contains a set of `TypeScript` example projects for the AWS Cloud Development Kit. |    -    |      AWS, CDK       |
-| [TemplateTypeScript](https://github.com/gsy0911/TemplateTypeScript)               | is template repository for TypeScript.                                             |    -    | template repository |
-
-
-## Other
-
-| name                                             | description            | tag |          related          |
-|:-------------------------------------------------|:-----------------------|:---:|:-------------------------:|
+| name                                                                                           | description                                                                               |                                                   release                                                   |       related       |
+|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------:|:-------------------:|
+| [kabutobashi / Python](https://github.com/gsy0911/kabutobashi)                                 | provides convenient functions related with Stocks.                                        |       [![PiPY](https://img.shields.io/pypi/v/kabutobashi.svg)](https://pypi.org/project/kabutobashi/)       |        stock        |
+| [AzFS / Python](https://github.com/gsy0911/azfs)                                               | provides convenient Python read/write functions for Azure Storage Account.                |              [![PiPY](https://img.shields.io/pypi/v/azfs.svg)](https://pypi.org/project/azfs/)              |        Azure        |
+| [aws-cdk-small-examples / Python](https://github.com/gsy0911/aws-cdk-small-examples)           | contains a set of example projects for the AWS Cloud Development Kit.                     |                                                      -                                                      |      AWS, CDK       |
+| [aws-cdk-ts-small-examples / Typescript](https://github.com/gsy0911/aws-cdk-ts-small-examples) | contains a set of `TypeScript` example projects for the AWS Cloud Development Kit. |    -    |      AWS, CDK       |
 | [dotfiles](https://github.com/gsy0911/dotfiles)  | dotfiles of @gsy0911   |  -  |       dotfiles, zsh       |
+
 
 other repositories are [here](./DETAIL.md).
 
