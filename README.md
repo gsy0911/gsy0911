@@ -2,23 +2,18 @@
 
 ## Repositories
 
-| name                                                                                           | description                                                                               |                                                   release                                                   |       related       |
-|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------:|:-------------------:|
-| [kabutobashi / Python](https://github.com/gsy0911/kabutobashi)                                 | provides convenient functions related with Stocks.                                        |       [![PiPY](https://img.shields.io/pypi/v/kabutobashi.svg)](https://pypi.org/project/kabutobashi/)       |        stock        |
-| [AzFS / Python](https://github.com/gsy0911/azfs)                                               | provides convenient Python read/write functions for Azure Storage Account.                |              [![PiPY](https://img.shields.io/pypi/v/azfs.svg)](https://pypi.org/project/azfs/)              |        Azure        |
-| [aws-cdk-small-examples / Python](https://github.com/gsy0911/aws-cdk-small-examples)           | contains a set of example projects for the AWS Cloud Development Kit.                     |                                                      -                                                      |      AWS, CDK       |
-| [aws-cdk-ts-small-examples / Typescript](https://github.com/gsy0911/aws-cdk-ts-small-examples) | contains a set of `TypeScript` example projects for the AWS Cloud Development Kit. |    -    |      AWS, CDK       |
-| [dotfiles](https://github.com/gsy0911/dotfiles)  | dotfiles of @gsy0911   |  -  |       dotfiles, zsh       |
-
+| name                                                           | description                                                                |                                             release                                             |    related    |
+|:---------------------------------------------------------------|:---------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------:|:-------------:|
+| [kabutobashi / Python](https://github.com/gsy0911/kabutobashi) | provides convenient functions related with Stocks.                         | [![PiPY](https://img.shields.io/pypi/v/kabutobashi.svg)](https://pypi.org/project/kabutobashi/) |     stock     |
+| [AzFS / Python](https://github.com/gsy0911/azfs)               | provides convenient Python read/write functions for Azure Storage Account. |        [![PiPY](https://img.shields.io/pypi/v/azfs.svg)](https://pypi.org/project/azfs/)        |     Azure     |
+| [dotfiles](https://github.com/gsy0911/dotfiles)                | dotfiles of @gsy0911                                                       |                                                -                                                | dotfiles, zsh |
 
 other repositories are [here](./DETAIL.md).
-
 
 # [Qiita Contribution](https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50)
 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/gsy0911/contributions.svg)](http://qiita.com/gsy0911)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/gsy0911/posts.svg)](http://qiita.com/gsy0911)
-
 
 # [Zenn Contribution](https://github.com/nikaera/zenn-badge)
 
