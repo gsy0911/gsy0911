@@ -37,7 +37,7 @@ other repositories are [here](./DETAIL.md).
 
 # [Skill Icons](https://github.com/tandpfun/skill-icons)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,fastapi,git,github,githubactions,idea,java,materialui,next,nginx,postgres,py,raspberrypi,react,ts&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,fastapi,git,github,githubactions,java,next,php,phpstorm,postgres,pr,py,pycharm,raspberrypi,react,symfony,ts&perline=9)](https://skillicons.dev)
 
 # [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
