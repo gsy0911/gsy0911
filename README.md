@@ -2,7 +2,6 @@
 
 - [Profile icon](./icons/README.md)
 
-
 ## Repositories
 
 | name                                                           | description                                                                |                                             release                                             |    related    |
@@ -37,6 +36,7 @@ other repositories are [here](./DETAIL.md).
 | [zenn-cloudfront-resize-image](https://github.com/gsy0911/zenn-cloudfront-resize-image)   | -                       |  -  |   Zenn, CloudFront, Lambda@Edge   |
 | [zenn-php-symfony](https://github.com/gsy0911/zenn-php-symfony)                           | -                       |  -  |        Zenn, PHP, Symfony         |
 | [zenn-nextjs-routes-types](https://github.com/gsy0911/zenn-nextjs-routes-types)           | -                       |  -  |    Zenn, Next.js, axios, types    |
+| [zenn-nextjs-authjs-cognito](https://github.com/gsy0911/zenn-nextjs-authjs-cognito)       | -                       |  -  |           Zenn, Next.js           |
 
 # [Skill Icons](https://github.com/tandpfun/skill-icons)
 
@@ -50,7 +50,7 @@ other repositories are [here](./DETAIL.md).
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gsy0911&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-# [GitHub Constibution](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
+# [GitHub Contribution](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
 
 <a href="https://github.com/anuraghazra/github-readme-stats" about="https://github.com/anuraghazra/github-readme-stats/issues/2415">
   <img height="170" align="left" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gsy0911&count_private=true&theme=dracula" />
