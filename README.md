@@ -42,11 +42,11 @@ other repositories are [here](./DETAIL.md).
 
 ## Recent term (2024 ~)
 
-[![recent skills](https://skillicons.dev/icons?i=aws,docker,figma,git,github,githubactions,lua,mysql,neovim,next,php,phpstorm,py,pycharm,react,symfony,tailwind,ts,webstorm&perline=8)](https://skillicons.dev)
+[![recent skills](https://skillicons.dev/icons?i=aws,docker,figma,git,github,githubactions,lua,mysql,neovim,next,php,phpstorm,py,pycharm,react,symfony,tailwind,ts,webstorm&perline=10)](https://skillicons.dev)
 
 ## All term (2016 ~ )
 
-[![past skills](https://skillicons.dev/icons?i=androidstudio,aws,azure,docker,eclipse,fastapi,figma,git,github,githubactions,idea,java,latex,lua,materialui,mysql,neovim,next,php,phpstorm,postgres,pr,py,pycharm,raspberrypi,react,symfony,tailwind,ts,webstorm&perline=8)](https://skillicons.dev)
+[![past skills](https://skillicons.dev/icons?i=androidstudio,aws,azure,docker,eclipse,fastapi,figma,git,github,githubactions,idea,java,latex,lua,materialui,mysql,neovim,next,php,phpstorm,postgres,pr,py,pycharm,raspberrypi,react,symfony,tailwind,ts,webstorm&perline=10)](https://skillicons.dev)
 
 # [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
