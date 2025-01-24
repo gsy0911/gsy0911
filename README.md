@@ -54,7 +54,7 @@ other repositories are [here](./DETAIL.md).
 
 # [Streak Stats](http://github-readme-streak-stats.herokuapp.com/demo/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gsy0911&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gsy0911&theme=dark)](https://git.io/streak-stats)
 
 # [GitHub Contribution](https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c)
 
